@@ -1,0 +1,231 @@
+﻿{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "howdy",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey there",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "bye",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "goodbye",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "good bye",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "stop",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "end",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "book for python",
+        "intent": "book",
+        "entities": []
+      },
+      {
+        "text": "tell me name of books for python",
+        "intent": "book",
+        "entities": []
+      },
+      {
+        "text": "name of book",
+        "intent": "book",
+        "entities": []
+      },
+      {
+        "text": "book names for python",
+        "intent": "book",
+        "entities": []
+      },
+      {
+        "text": "link to buy python book",
+        "intent": "book",
+        "entities": []
+      },
+      {
+        "text": "python books ",
+        "intent": "book",
+        "entities": []
+      },
+      {
+        "text": "best python book",
+        "intent": "book",
+        "entities": []
+      },
+      {
+        "text": "python books best to buy",
+        "intent": "book",
+        "entities": []
+      },
+      {
+        "text": "can i download python books ",
+        "intent": "book",
+        "entities": []
+      },
+      {
+        "text": "i need python book links",
+        "intent": "book",
+        "entities": []
+      },
+      {
+        "text": "can you please provide me python books name and links",
+        "intent": "book",
+        "entities": []
+      },
+      {
+        "text": "can you please provide us python books name and links",
+        "intent": "book",
+        "entities": []
+      },
+      {
+        "text": "can you python books name",
+        "intent": "book",
+        "entities": []
+      },
+      {
+        "text": "can you please python links",
+        "intent": "book",
+        "entities": []
+      },
+      {
+        "text": "best youtube channel for python",
+        "intent": "youtube",
+        "entities": []
+      },
+      {
+        "text": "youtube link for python leaning ",
+        "intent": "youtube",
+        "entities": []
+      },
+      {
+        "text": "i need youtube link for python beginners",
+        "intent": "youtube",
+        "entities": []
+      },
+      {
+        "text": "python youtube link",
+        "intent": "youtube",
+        "entities": []
+      },
+      {
+        "text": "link of youtube best channel ",
+        "intent": "youtube",
+        "entities": []
+      },
+      {
+        "text": "tell me best youtube channel ",
+        "intent": "youtube",
+        "entities": []
+      },
+      {
+        "text": "machine learning python book name",
+        "intent": "machine_learning",
+        "entities": []
+      },
+      {
+        "text": "tell me any machine learning book",
+        "intent": "machine_learning",
+        "entities": []
+      },
+      {
+        "text": "machine learning book name",
+        "intent": "machine_learning",
+        "entities": []
+      },
+      {
+        "text": "best book for ai ml",
+        "intent": "machine_learning",
+        "entities": []
+      },
+      {
+        "text": "best book for machine learning",
+        "intent": "machine_learning",
+        "entities": []
+      },
+      {
+        "text": "machine learning best youtube channel",
+        "intent": "machine_learning",
+        "entities": []
+      },
+      {
+        "text": "fuck off",
+        "intent": "abuse",
+        "entities": []
+      },
+      {
+        "text": "shit off",
+        "intent": "abuse",
+        "entities": []
+      },
+      {
+        "text": "fucking idiot",
+        "intent": "abuse",
+        "entities": []
+      },
+      {
+        "text": "go to hell",
+        "intent": "abuse",
+        "entities": []
+      },
+      {
+        "text": "hey idiot ",
+        "intent": "abuse",
+        "entities": []
+      },
+      {
+        "text": "suck my dick",
+        "intent": "abuse",
+        "entities": []
+      },
+      {
+        "text": "dick",
+        "intent": "abuse",
+        "entities": []
+      },
+      {
+        "text": "fucker off",
+        "intent": "abuse",
+        "entities": []
+      },
+      {
+        "text": "dick head",
+        "intent": "abuse",
+        "entities": []
+      }
+    ]
+  }
+}

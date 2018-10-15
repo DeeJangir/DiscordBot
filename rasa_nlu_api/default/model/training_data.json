@@ -1,0 +1,189 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "greet",
+        "text": "hey"
+      },
+      {
+        "intent": "greet",
+        "text": "howdy"
+      },
+      {
+        "intent": "greet",
+        "text": "hey there"
+      },
+      {
+        "intent": "greet",
+        "text": "hello"
+      },
+      {
+        "intent": "greet",
+        "text": "hi"
+      },
+      {
+        "intent": "goodbye",
+        "text": "bye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "goodbye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "good bye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "stop"
+      },
+      {
+        "intent": "goodbye",
+        "text": "end"
+      },
+      {
+        "intent": "book",
+        "text": "book for python"
+      },
+      {
+        "intent": "book",
+        "text": "tell me name of books for python"
+      },
+      {
+        "intent": "book",
+        "text": "name of book"
+      },
+      {
+        "intent": "book",
+        "text": "book names for python"
+      },
+      {
+        "intent": "book",
+        "text": "link to buy python book"
+      },
+      {
+        "intent": "book",
+        "text": "python books "
+      },
+      {
+        "intent": "book",
+        "text": "best python book"
+      },
+      {
+        "intent": "book",
+        "text": "python books best to buy"
+      },
+      {
+        "intent": "book",
+        "text": "can i download python books "
+      },
+      {
+        "intent": "book",
+        "text": "i need python book links"
+      },
+      {
+        "intent": "book",
+        "text": "can you please provide me python books name and links"
+      },
+      {
+        "intent": "book",
+        "text": "can you please provide us python books name and links"
+      },
+      {
+        "intent": "book",
+        "text": "can you python books name"
+      },
+      {
+        "intent": "book",
+        "text": "can you please python links"
+      },
+      {
+        "intent": "youtube",
+        "text": "best youtube channel for python"
+      },
+      {
+        "intent": "youtube",
+        "text": "youtube link for python leaning "
+      },
+      {
+        "intent": "youtube",
+        "text": "i need youtube link for python beginners"
+      },
+      {
+        "intent": "youtube",
+        "text": "python youtube link"
+      },
+      {
+        "intent": "youtube",
+        "text": "link of youtube best channel "
+      },
+      {
+        "intent": "youtube",
+        "text": "tell me best youtube channel "
+      },
+      {
+        "intent": "machine_learning",
+        "text": "machine learning python book name"
+      },
+      {
+        "intent": "machine_learning",
+        "text": "tell me any machine learning book"
+      },
+      {
+        "intent": "machine_learning",
+        "text": "machine learning book name"
+      },
+      {
+        "intent": "machine_learning",
+        "text": "best book for ai ml"
+      },
+      {
+        "intent": "machine_learning",
+        "text": "best book for machine learning"
+      },
+      {
+        "intent": "machine_learning",
+        "text": "machine learning best youtube channel"
+      },
+      {
+        "intent": "abuse",
+        "text": "fuck off"
+      },
+      {
+        "intent": "abuse",
+        "text": "shit off"
+      },
+      {
+        "intent": "abuse",
+        "text": "fucking idiot"
+      },
+      {
+        "intent": "abuse",
+        "text": "go to hell"
+      },
+      {
+        "intent": "abuse",
+        "text": "hey idiot "
+      },
+      {
+        "intent": "abuse",
+        "text": "suck my dick"
+      },
+      {
+        "intent": "abuse",
+        "text": "dick"
+      },
+      {
+        "intent": "abuse",
+        "text": "fucker off"
+      },
+      {
+        "intent": "abuse",
+        "text": "dick head"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}

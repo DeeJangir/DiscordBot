@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\discord_api\\./rasa_nlu_api/default\\model\\intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "C:\\discord_api\\./rasa_nlu_api/default\\model\\intent_classifier_tensorflow_embedding.ckpt"
